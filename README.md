@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bar Musler</h1>
 <h3 align="center">A passionate Full Stack devoloper from Israel.</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif"></img>
+<img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b8232a24691911.5698d9abdde05.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muslerr&label=Profile%20views&color=0e75b6&style=flat" alt="muslerr" /> </p>
 
 - 🔭 I’m currently working on [Netflix copy] https://netflix-copy-klyb.vercel.app/
